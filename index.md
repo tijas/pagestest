@@ -1,4 +1,4 @@
-### Welkome to the front page of Tommi Ijäs 
+### Welcome to the front page of Tommi Ijäs 
 
 This page has been set up as testpad for Tommi Ijäs in his search for knowledge in coding space.
 
