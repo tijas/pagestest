@@ -14,6 +14,7 @@ Beginner studies into the world of web-development lasted 4 months with 1 month 
 >PHP and MySQL backend, equirectangular photosphere viewer for your own linked images.
 >Production platform Microsoft Azure.
 >[github.com/tijas/WebDeploy](https://github.com/tijas/WebDeploy) - GitHub source code
+>
 >[tommii.azurewebsites.net/WorldView](https://tommii.azurewebsites.net/WorldView)
 
 
@@ -21,6 +22,7 @@ Beginner studies into the world of web-development lasted 4 months with 1 month 
 >Python+Flask with postgreSQL. Service for finding friends to play games with.
 >Production platform Heroku.
 >[github.com/tijas/playwithbuddy](https://github.com/tijas/playwithbuddy) -GitHub source
+>
 >[playwithbuddy.herokuapp.com](https://playwithbuddy.herokuapp.com/)
 
 
